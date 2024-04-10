@@ -48,6 +48,7 @@ We have already granted access to researchers from the following institutions:
 8. Singapore Management University
 9. Southeast University
 10. University of Cagliari
+11. University of Chinese Academy of Sciences
 
 
 ## Contact
